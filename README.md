@@ -1,6 +1,4 @@
-# Proxy pattern
-
-picture here
+# Proxy pattern en JS
 
 ## La teoría
 
@@ -28,7 +26,7 @@ Personalmente, me gusta mucho asociar los nuevos conceptos que voy aprendiendo a
 
 Para aclararlo: Cuando usamos CreditCard, aunque no llevemos el dinero encima, ni el riesgo que supondría tenerlo en los bolsillos, podemos seguir usando Cash mediante su proxy (CreditCard).
 
-![img]('./../imgs/live-example.png')
+![img]('./../imgs/live-example.png)
 
 ## ¿Que es obj Proxy() de JS? ¿Lo he de usar siempre?
 
